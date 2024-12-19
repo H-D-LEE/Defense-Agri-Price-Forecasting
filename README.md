@@ -13,3 +13,6 @@
 | 정태빈 | 데이터 수집, 자료 조사, ERD, EDA                                 |
 | 부혁훈 | 빅데이터 서버 구축, 파일 업로드 자동화                           |
  
+<H4> WBS </H4>
+
+![WBS](https://github.com/user-attachments/assets/8018477a-1dcd-4190-8ac7-d3c3d4d02866)
